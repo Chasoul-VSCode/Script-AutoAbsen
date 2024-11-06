@@ -1,0 +1,378 @@
+2024-11-06 23:24:56,063 - INFO - Auto attendance scheduler started
+2024-11-06 23:27:38,826 - INFO - Starting auto attendance process
+2024-11-06 23:27:38,826 - INFO - Setting up Chrome driver
+2024-11-06 23:27:38,827 - INFO - ====== WebDriver manager ======
+2024-11-06 23:27:39,053 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:27:40,249 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:27:41,044 - INFO - There is no [linux64] chromedriver "130.0.6723.93" for browser google-chrome "130.0.6723" in cache
+2024-11-06 23:27:41,045 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:27:43,100 - INFO - WebDriver version 130.0.6723.93 selected
+2024-11-06 23:27:43,105 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.93/linux64/chromedriver-linux64.zip
+2024-11-06 23:27:43,105 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.93/linux64/chromedriver-linux64.zip
+2024-11-06 23:27:43,162 - INFO - Driver downloading response is 200
+2024-11-06 23:27:46,714 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:27:48,061 - INFO - Driver has been saved in cache [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93]
+2024-11-06 23:27:48,613 - INFO - Chrome driver initialized successfully
+2024-11-06 23:27:48,615 - INFO - Navigating to attendance URL
+2024-11-06 23:28:19,685 - ERROR - Error finding/filling NPM field: Message: 
+Stacktrace:
+#0 0x5febe69cf1ca <unknown>
+#1 0x5febe64ea460 <unknown>
+#2 0x5febe6536f96 <unknown>
+#3 0x5febe6537221 <unknown>
+#4 0x5febe657c5d4 <unknown>
+#5 0x5febe655b03d <unknown>
+#6 0x5febe6579af6 <unknown>
+#7 0x5febe655adb3 <unknown>
+#8 0x5febe6529c10 <unknown>
+#9 0x5febe652abee <unknown>
+#10 0x5febe699b45b <unknown>
+#11 0x5febe699f3f8 <unknown>
+#12 0x5febe6988f7c <unknown>
+#13 0x5febe699ff77 <unknown>
+#14 0x5febe696e1cf <unknown>
+#15 0x5febe69bd8e8 <unknown>
+#16 0x5febe69bdab0 <unknown>
+#17 0x5febe69ce046 <unknown>
+#18 0x729020c9ca94 <unknown>
+#19 0x729020d29c3c <unknown>
+
+2024-11-06 23:28:19,686 - ERROR - Error detail: TimeoutException: Message: 
+Stacktrace:
+#0 0x5febe69cf1ca <unknown>
+#1 0x5febe64ea460 <unknown>
+#2 0x5febe6536f96 <unknown>
+#3 0x5febe6537221 <unknown>
+#4 0x5febe657c5d4 <unknown>
+#5 0x5febe655b03d <unknown>
+#6 0x5febe6579af6 <unknown>
+#7 0x5febe655adb3 <unknown>
+#8 0x5febe6529c10 <unknown>
+#9 0x5febe652abee <unknown>
+#10 0x5febe699b45b <unknown>
+#11 0x5febe699f3f8 <unknown>
+#12 0x5febe6988f7c <unknown>
+#13 0x5febe699ff77 <unknown>
+#14 0x5febe696e1cf <unknown>
+#15 0x5febe69bd8e8 <unknown>
+#16 0x5febe69bdab0 <unknown>
+#17 0x5febe69ce046 <unknown>
+#18 0x729020c9ca94 <unknown>
+#19 0x729020d29c3c <unknown>
+
+2024-11-06 23:28:19,820 - INFO - Browser session closed
+2024-11-06 23:28:19,821 - INFO - Manual attendance completed
+2024-11-06 23:31:57,783 - INFO - Starting auto attendance process
+2024-11-06 23:31:57,784 - INFO - Setting up Chrome driver
+2024-11-06 23:31:57,784 - INFO - ====== WebDriver manager ======
+2024-11-06 23:31:57,985 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:31:58,785 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:31:59,609 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-06 23:32:00,194 - INFO - Chrome driver initialized successfully
+2024-11-06 23:32:00,197 - INFO - Navigating to attendance URL
+2024-11-06 23:32:31,291 - ERROR - Error finding/filling NPM field: Message: 
+Stacktrace:
+#0 0x5763bf0501ca <unknown>
+#1 0x5763beb6b460 <unknown>
+#2 0x5763bebb7f96 <unknown>
+#3 0x5763bebb8221 <unknown>
+#4 0x5763bebfd5d4 <unknown>
+#5 0x5763bebdc03d <unknown>
+#6 0x5763bebfaaf6 <unknown>
+#7 0x5763bebdbdb3 <unknown>
+#8 0x5763bebaac10 <unknown>
+#9 0x5763bebabbee <unknown>
+#10 0x5763bf01c45b <unknown>
+#11 0x5763bf0203f8 <unknown>
+#12 0x5763bf009f7c <unknown>
+#13 0x5763bf020f77 <unknown>
+#14 0x5763befef1cf <unknown>
+#15 0x5763bf03e8e8 <unknown>
+#16 0x5763bf03eab0 <unknown>
+#17 0x5763bf04f046 <unknown>
+#18 0x73775d09ca94 <unknown>
+#19 0x73775d129c3c <unknown>
+
+2024-11-06 23:32:31,291 - ERROR - Error detail: TimeoutException: Message: 
+Stacktrace:
+#0 0x5763bf0501ca <unknown>
+#1 0x5763beb6b460 <unknown>
+#2 0x5763bebb7f96 <unknown>
+#3 0x5763bebb8221 <unknown>
+#4 0x5763bebfd5d4 <unknown>
+#5 0x5763bebdc03d <unknown>
+#6 0x5763bebfaaf6 <unknown>
+#7 0x5763bebdbdb3 <unknown>
+#8 0x5763bebaac10 <unknown>
+#9 0x5763bebabbee <unknown>
+#10 0x5763bf01c45b <unknown>
+#11 0x5763bf0203f8 <unknown>
+#12 0x5763bf009f7c <unknown>
+#13 0x5763bf020f77 <unknown>
+#14 0x5763befef1cf <unknown>
+#15 0x5763bf03e8e8 <unknown>
+#16 0x5763bf03eab0 <unknown>
+#17 0x5763bf04f046 <unknown>
+#18 0x73775d09ca94 <unknown>
+#19 0x73775d129c3c <unknown>
+
+2024-11-06 23:32:31,403 - INFO - Browser session closed
+2024-11-06 23:32:31,404 - INFO - Manual attendance completed
+2024-11-06 23:34:53,364 - INFO - Starting auto attendance process
+2024-11-06 23:34:53,364 - INFO - Setting up Chrome driver
+2024-11-06 23:34:53,365 - INFO - ====== WebDriver manager ======
+2024-11-06 23:34:53,571 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:34:54,567 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:34:55,483 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-06 23:34:56,108 - INFO - Chrome driver initialized successfully
+2024-11-06 23:34:56,110 - INFO - Navigating to attendance URL
+2024-11-06 23:35:27,084 - ERROR - NPM field not found within timeout period
+2024-11-06 23:35:27,085 - ERROR - Error detail: TimeoutException: Message: 
+Stacktrace:
+#0 0x5b9be72111ca <unknown>
+#1 0x5b9be6d2c460 <unknown>
+#2 0x5b9be6d78f96 <unknown>
+#3 0x5b9be6d79221 <unknown>
+#4 0x5b9be6dbe5d4 <unknown>
+#5 0x5b9be6d9d03d <unknown>
+#6 0x5b9be6dbbaf6 <unknown>
+#7 0x5b9be6d9cdb3 <unknown>
+#8 0x5b9be6d6bc10 <unknown>
+#9 0x5b9be6d6cbee <unknown>
+#10 0x5b9be71dd45b <unknown>
+#11 0x5b9be71e13f8 <unknown>
+#12 0x5b9be71caf7c <unknown>
+#13 0x5b9be71e1f77 <unknown>
+#14 0x5b9be71b01cf <unknown>
+#15 0x5b9be71ff8e8 <unknown>
+#16 0x5b9be71ffab0 <unknown>
+#17 0x5b9be7210046 <unknown>
+#18 0x7f2173c9ca94 <unknown>
+#19 0x7f2173d29c3c <unknown>
+
+2024-11-06 23:35:27,207 - INFO - Browser session closed
+2024-11-06 23:35:27,208 - INFO - Manual attendance completed
+2024-11-06 23:40:20,346 - INFO - Starting auto attendance process
+2024-11-06 23:40:20,347 - INFO - Setting up Chrome driver
+2024-11-06 23:40:20,347 - INFO - ====== WebDriver manager ======
+2024-11-06 23:40:20,550 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:40:21,783 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:40:23,090 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-06 23:40:23,647 - INFO - Chrome driver initialized successfully
+2024-11-06 23:40:23,649 - INFO - Navigating to attendance URL
+2024-11-06 23:40:44,310 - ERROR - Error detail: TimeoutException: Message: 
+Stacktrace:
+#0 0x56519889e1ca <unknown>
+#1 0x5651983b9460 <unknown>
+#2 0x565198405f96 <unknown>
+#3 0x565198406221 <unknown>
+#4 0x56519844b5d4 <unknown>
+#5 0x56519842a03d <unknown>
+#6 0x565198448af6 <unknown>
+#7 0x565198429db3 <unknown>
+#8 0x5651983f8c10 <unknown>
+#9 0x5651983f9bee <unknown>
+#10 0x56519886a45b <unknown>
+#11 0x56519886e3f8 <unknown>
+#12 0x565198857f7c <unknown>
+#13 0x56519886ef77 <unknown>
+#14 0x56519883d1cf <unknown>
+#15 0x56519888c8e8 <unknown>
+#16 0x56519888cab0 <unknown>
+#17 0x56519889d046 <unknown>
+#18 0x7f3ec4e9ca94 <unknown>
+#19 0x7f3ec4f29c3c <unknown>
+
+2024-11-06 23:40:44,437 - INFO - Browser session closed
+2024-11-06 23:40:44,438 - INFO - Manual attendance completed
+2024-11-06 23:44:02,913 - INFO - Starting auto attendance process
+2024-11-06 23:44:02,914 - INFO - Setting up Chrome driver
+2024-11-06 23:44:02,914 - INFO - ====== WebDriver manager ======
+2024-11-06 23:44:03,113 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:44:04,981 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:44:05,837 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-06 23:44:06,450 - INFO - Chrome driver initialized successfully
+2024-11-06 23:44:06,452 - INFO - Navigating to attendance URL
+2024-11-06 23:44:07,171 - INFO - NPM entered successfully
+2024-11-06 23:44:07,344 - INFO - Password entered successfully
+2024-11-06 23:44:27,705 - ERROR - Error clicking submit button: Message: 
+Stacktrace:
+#0 0x5b6c94e821ca <unknown>
+#1 0x5b6c9499d460 <unknown>
+#2 0x5b6c949e9f96 <unknown>
+#3 0x5b6c949ea221 <unknown>
+#4 0x5b6c94a2f5d4 <unknown>
+#5 0x5b6c94a0e03d <unknown>
+#6 0x5b6c94a2caf6 <unknown>
+#7 0x5b6c94a0ddb3 <unknown>
+#8 0x5b6c949dcc10 <unknown>
+#9 0x5b6c949ddbee <unknown>
+#10 0x5b6c94e4e45b <unknown>
+#11 0x5b6c94e523f8 <unknown>
+#12 0x5b6c94e3bf7c <unknown>
+#13 0x5b6c94e52f77 <unknown>
+#14 0x5b6c94e211cf <unknown>
+#15 0x5b6c94e708e8 <unknown>
+#16 0x5b6c94e70ab0 <unknown>
+#17 0x5b6c94e81046 <unknown>
+#18 0x7bca4e89ca94 <unknown>
+#19 0x7bca4e929c3c <unknown>
+
+2024-11-06 23:44:27,705 - ERROR - Error detail: TimeoutException: Message: 
+Stacktrace:
+#0 0x5b6c94e821ca <unknown>
+#1 0x5b6c9499d460 <unknown>
+#2 0x5b6c949e9f96 <unknown>
+#3 0x5b6c949ea221 <unknown>
+#4 0x5b6c94a2f5d4 <unknown>
+#5 0x5b6c94a0e03d <unknown>
+#6 0x5b6c94a2caf6 <unknown>
+#7 0x5b6c94a0ddb3 <unknown>
+#8 0x5b6c949dcc10 <unknown>
+#9 0x5b6c949ddbee <unknown>
+#10 0x5b6c94e4e45b <unknown>
+#11 0x5b6c94e523f8 <unknown>
+#12 0x5b6c94e3bf7c <unknown>
+#13 0x5b6c94e52f77 <unknown>
+#14 0x5b6c94e211cf <unknown>
+#15 0x5b6c94e708e8 <unknown>
+#16 0x5b6c94e70ab0 <unknown>
+#17 0x5b6c94e81046 <unknown>
+#18 0x7bca4e89ca94 <unknown>
+#19 0x7bca4e929c3c <unknown>
+
+2024-11-06 23:44:27,847 - INFO - Browser session closed
+2024-11-06 23:44:27,848 - INFO - Manual attendance completed
+2024-11-06 23:45:40,281 - INFO - Starting auto attendance process
+2024-11-06 23:45:40,282 - INFO - Setting up Chrome driver
+2024-11-06 23:45:40,282 - INFO - ====== WebDriver manager ======
+2024-11-06 23:45:40,489 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:45:41,952 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 23:45:42,729 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-06 23:45:43,362 - INFO - Chrome driver initialized successfully
+2024-11-06 23:45:43,365 - INFO - Navigating to attendance URL
+2024-11-06 23:45:44,158 - INFO - NPM entered successfully
+2024-11-06 23:45:44,330 - INFO - Password entered successfully
+2024-11-06 23:45:49,302 - INFO - Submit button clicked
+2024-11-06 23:45:57,303 - INFO - Attendance submitted successfully at 2024-11-06 23:45:57!
+2024-11-06 23:45:57,419 - INFO - Browser session closed
+2024-11-06 23:45:57,420 - INFO - Manual attendance completed
+2024-11-06 23:56:07,894 - INFO - Auto attendance scheduler started
+2024-11-07 00:08:34,715 - INFO - Auto attendance scheduler started
+2024-11-07 00:46:37,390 - INFO - Starting auto attendance process
+2024-11-07 00:46:37,390 - INFO - Setting up Chrome driver
+2024-11-07 00:46:37,390 - INFO - ====== WebDriver manager ======
+2024-11-07 00:46:37,601 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:46:38,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:46:39,601 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:46:40,230 - INFO - Chrome driver initialized successfully
+2024-11-07 00:46:40,232 - INFO - Navigating to attendance URL
+2024-11-07 00:46:41,137 - INFO - NPM entered successfully
+2024-11-07 00:46:41,301 - INFO - Password entered successfully
+2024-11-07 00:46:57,047 - INFO - Submit button clicked
+2024-11-07 00:47:05,047 - INFO - Attendance submitted successfully at 2024-11-07 00:47:05!
+2024-11-07 00:47:05,173 - INFO - Browser session closed
+2024-11-07 00:48:37,786 - INFO - Starting auto attendance process
+2024-11-07 00:48:37,786 - INFO - Setting up Chrome driver
+2024-11-07 00:48:37,787 - INFO - ====== WebDriver manager ======
+2024-11-07 00:48:37,997 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:48:38,785 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:48:39,613 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:48:40,195 - INFO - Chrome driver initialized successfully
+2024-11-07 00:48:40,197 - INFO - Navigating to attendance URL
+2024-11-07 00:48:41,027 - INFO - NPM entered successfully
+2024-11-07 00:48:41,192 - INFO - Password entered successfully
+2024-11-07 00:48:57,756 - INFO - Submit button clicked
+2024-11-07 00:49:05,757 - INFO - Attendance submitted successfully at 2024-11-07 00:49:05!
+2024-11-07 00:49:05,889 - INFO - Browser session closed
+2024-11-07 00:49:05,890 - INFO - Starting auto attendance process
+2024-11-07 00:49:05,891 - INFO - Setting up Chrome driver
+2024-11-07 00:49:05,891 - INFO - ====== WebDriver manager ======
+2024-11-07 00:49:06,088 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:49:06,888 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:49:07,842 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:49:08,413 - INFO - Chrome driver initialized successfully
+2024-11-07 00:49:08,415 - INFO - Navigating to attendance URL
+2024-11-07 00:49:09,150 - INFO - NPM entered successfully
+2024-11-07 00:49:09,322 - INFO - Password entered successfully
+2024-11-07 00:49:14,835 - INFO - Submit button clicked
+2024-11-07 00:49:22,836 - INFO - Attendance submitted successfully at 2024-11-07 00:49:22!
+2024-11-07 00:49:22,946 - INFO - Browser session closed
+2024-11-07 00:49:22,947 - INFO - Starting auto attendance process
+2024-11-07 00:49:22,947 - INFO - Setting up Chrome driver
+2024-11-07 00:49:22,947 - INFO - ====== WebDriver manager ======
+2024-11-07 00:49:23,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:49:24,746 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:49:25,681 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:49:26,253 - INFO - Chrome driver initialized successfully
+2024-11-07 00:49:26,255 - INFO - Navigating to attendance URL
+2024-11-07 00:49:27,134 - INFO - NPM entered successfully
+2024-11-07 00:49:27,307 - INFO - Password entered successfully
+2024-11-07 00:49:28,265 - INFO - Submit button clicked
+2024-11-07 00:49:36,266 - INFO - Attendance submitted successfully at 2024-11-07 00:49:36!
+2024-11-07 00:49:36,361 - INFO - Browser session closed
+2024-11-07 00:52:04,313 - INFO - Starting auto attendance process
+2024-11-07 00:52:04,313 - INFO - Setting up Chrome driver
+2024-11-07 00:52:04,313 - INFO - ====== WebDriver manager ======
+2024-11-07 00:52:04,525 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:52:06,066 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:52:06,918 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:52:07,545 - INFO - Chrome driver initialized successfully
+2024-11-07 00:52:07,548 - INFO - Navigating to attendance URL
+2024-11-07 00:52:08,324 - INFO - NPM entered successfully
+2024-11-07 00:52:08,496 - INFO - Password entered successfully
+2024-11-07 00:52:14,400 - INFO - Submit button clicked
+2024-11-07 00:52:22,400 - INFO - Attendance submitted successfully at 2024-11-07 00:52:22!
+2024-11-07 00:52:22,512 - INFO - Browser session closed
+2024-11-07 00:52:22,513 - INFO - Starting auto attendance process
+2024-11-07 00:52:22,513 - INFO - Setting up Chrome driver
+2024-11-07 00:52:22,514 - INFO - ====== WebDriver manager ======
+2024-11-07 00:52:22,713 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:52:23,588 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:52:24,538 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:52:25,118 - INFO - Chrome driver initialized successfully
+2024-11-07 00:52:25,120 - INFO - Navigating to attendance URL
+2024-11-07 00:52:25,862 - INFO - NPM entered successfully
+2024-11-07 00:52:26,034 - INFO - Password entered successfully
+2024-11-07 00:52:26,804 - INFO - Submit button clicked
+2024-11-07 00:52:34,805 - INFO - Attendance submitted successfully at 2024-11-07 00:52:34!
+2024-11-07 00:52:34,897 - INFO - Browser session closed
+2024-11-07 00:53:36,436 - INFO - Starting auto attendance process
+2024-11-07 00:53:36,436 - INFO - Setting up Chrome driver
+2024-11-07 00:53:36,436 - INFO - ====== WebDriver manager ======
+2024-11-07 00:53:36,640 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:53:37,522 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:53:38,316 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:53:38,893 - INFO - Chrome driver initialized successfully
+2024-11-07 00:53:38,895 - INFO - Navigating to attendance URL
+2024-11-07 00:53:39,612 - INFO - NPM entered successfully
+2024-11-07 00:53:39,783 - INFO - Password entered successfully
+2024-11-07 00:53:45,811 - INFO - Submit button clicked
+2024-11-07 00:53:53,811 - INFO - Attendance submitted successfully at 2024-11-07 00:53:53!
+2024-11-07 00:53:53,926 - INFO - Browser session closed
+2024-11-07 00:53:53,927 - INFO - Starting auto attendance process
+2024-11-07 00:53:53,927 - INFO - Setting up Chrome driver
+2024-11-07 00:53:53,927 - INFO - ====== WebDriver manager ======
+2024-11-07 00:53:54,134 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:53:55,147 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:53:56,004 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:53:56,573 - INFO - Chrome driver initialized successfully
+2024-11-07 00:53:56,575 - INFO - Navigating to attendance URL
+2024-11-07 00:53:57,296 - INFO - NPM entered successfully
+2024-11-07 00:53:57,462 - INFO - Password entered successfully
+2024-11-07 00:53:57,929 - INFO - Submit button clicked
+2024-11-07 00:54:05,930 - INFO - Attendance submitted successfully at 2024-11-07 00:54:05!
+2024-11-07 00:54:06,021 - INFO - Browser session closed
+2024-11-07 00:54:06,022 - INFO - Starting auto attendance process
+2024-11-07 00:54:06,022 - INFO - Setting up Chrome driver
+2024-11-07 00:54:06,022 - INFO - ====== WebDriver manager ======
+2024-11-07 00:54:06,235 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:54:07,986 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:54:09,473 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 00:54:10,061 - INFO - Chrome driver initialized successfully
+2024-11-07 00:54:10,063 - INFO - Navigating to attendance URL
+2024-11-07 00:54:10,919 - INFO - NPM entered successfully
+2024-11-07 00:54:11,092 - INFO - Password entered successfully
+2024-11-07 00:54:37,255 - INFO - Submit button clicked
+2024-11-07 00:54:45,255 - INFO - Attendance submitted successfully at 2024-11-07 00:54:45!
+2024-11-07 00:54:45,388 - INFO - Browser session closed

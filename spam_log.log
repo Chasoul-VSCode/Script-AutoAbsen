@@ -1,0 +1,518 @@
+2024-11-07 00:17:00,895 - INFO - Starting spam login process for 1000 attempts
+2024-11-07 00:17:00,895 - INFO - Setting up Chrome driver
+2024-11-07 00:17:00,895 - INFO - ====== WebDriver manager ======
+2024-11-07 00:17:01,102 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:17:01,952 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:17:02,910 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:17:04,974 - INFO - WebDriver version 130.0.6723.93 selected
+2024-11-07 00:17:04,980 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.93/linux64/chromedriver-linux64.zip
+2024-11-07 00:17:04,980 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.93/linux64/chromedriver-linux64.zip
+2024-11-07 00:17:05,041 - INFO - Driver downloading response is 200
+2024-11-07 00:17:15,635 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 00:17:16,837 - INFO - Driver has been saved in cache [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93]
+2024-11-07 00:17:17,440 - INFO - Chrome driver initialized successfully
+2024-11-07 00:17:17,442 - INFO - Attempt 1 of 1000
+2024-11-07 00:17:29,482 - ERROR - Error on attempt 1: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:17:29,482 - INFO - Attempt 2 of 1000
+2024-11-07 00:17:37,875 - INFO - Login attempt 2 completed
+2024-11-07 00:17:37,875 - INFO - Attempt 3 of 1000
+2024-11-07 00:17:48,722 - ERROR - Error on attempt 3: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:17:48,722 - INFO - Attempt 4 of 1000
+2024-11-07 00:17:58,794 - ERROR - Error on attempt 4: TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.021
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dc9bf <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:17:58,795 - INFO - Attempt 5 of 1000
+2024-11-07 00:18:10,641 - ERROR - Error on attempt 5: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:18:10,641 - INFO - Attempt 6 of 1000
+2024-11-07 00:18:17,934 - INFO - Login attempt 6 completed
+2024-11-07 00:18:17,934 - INFO - Attempt 7 of 1000
+2024-11-07 00:18:19,606 - INFO - Login attempt 7 completed
+2024-11-07 00:18:19,606 - INFO - Attempt 8 of 1000
+2024-11-07 00:18:26,375 - INFO - Login attempt 8 completed
+2024-11-07 00:18:26,375 - INFO - Attempt 9 of 1000
+2024-11-07 00:18:33,322 - INFO - Login attempt 9 completed
+2024-11-07 00:18:33,323 - INFO - Attempt 10 of 1000
+2024-11-07 00:18:40,319 - INFO - Login attempt 10 completed
+2024-11-07 00:18:40,319 - INFO - Attempt 11 of 1000
+2024-11-07 00:18:47,485 - INFO - Login attempt 11 completed
+2024-11-07 00:18:47,485 - INFO - Attempt 12 of 1000
+2024-11-07 00:18:49,369 - INFO - Login attempt 12 completed
+2024-11-07 00:18:49,370 - INFO - Attempt 13 of 1000
+2024-11-07 00:18:56,238 - INFO - Login attempt 13 completed
+2024-11-07 00:18:56,239 - INFO - Attempt 14 of 1000
+2024-11-07 00:18:58,079 - INFO - Login attempt 14 completed
+2024-11-07 00:18:58,079 - INFO - Attempt 15 of 1000
+2024-11-07 00:19:00,084 - INFO - Login attempt 15 completed
+2024-11-07 00:19:00,084 - INFO - Attempt 16 of 1000
+2024-11-07 00:19:10,892 - ERROR - Error on attempt 16: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:19:10,893 - INFO - Attempt 17 of 1000
+2024-11-07 00:19:22,205 - ERROR - Error on attempt 17: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:19:22,206 - INFO - Attempt 18 of 1000
+2024-11-07 00:19:32,278 - ERROR - Error on attempt 18: TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.020
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dc9bf <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:19:32,279 - INFO - Attempt 19 of 1000
+2024-11-07 00:19:43,812 - ERROR - Error on attempt 19: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:19:43,813 - INFO - Attempt 20 of 1000
+2024-11-07 00:19:53,884 - ERROR - Error on attempt 20: TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.021
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dc9bf <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:19:53,885 - INFO - Attempt 21 of 1000
+2024-11-07 00:20:06,585 - INFO - Login attempt 21 completed
+2024-11-07 00:20:06,585 - INFO - Attempt 22 of 1000
+2024-11-07 00:20:08,447 - INFO - Login attempt 22 completed
+2024-11-07 00:20:08,447 - INFO - Attempt 23 of 1000
+2024-11-07 00:20:19,213 - ERROR - Error on attempt 23: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:20:19,213 - INFO - Attempt 24 of 1000
+2024-11-07 00:20:29,289 - ERROR - Error on attempt 24: TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.021
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dc9bf <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:20:29,289 - INFO - Attempt 25 of 1000
+2024-11-07 00:20:40,751 - ERROR - Error on attempt 25: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:20:40,751 - INFO - Attempt 26 of 1000
+2024-11-07 00:20:52,054 - ERROR - Error on attempt 26: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:20:52,054 - INFO - Attempt 27 of 1000
+2024-11-07 00:20:54,340 - INFO - Login attempt 27 completed
+2024-11-07 00:20:54,340 - INFO - Attempt 28 of 1000
+2024-11-07 00:21:05,136 - ERROR - Error on attempt 28: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:21:05,137 - INFO - Attempt 29 of 1000
+2024-11-07 00:21:07,545 - INFO - Login attempt 29 completed
+2024-11-07 00:21:07,545 - INFO - Attempt 30 of 1000
+2024-11-07 00:21:09,550 - INFO - Login attempt 30 completed
+2024-11-07 00:21:09,550 - INFO - Attempt 31 of 1000
+2024-11-07 00:21:11,457 - INFO - Login attempt 31 completed
+2024-11-07 00:21:11,457 - INFO - Attempt 32 of 1000
+2024-11-07 00:21:18,357 - INFO - Login attempt 32 completed
+2024-11-07 00:21:18,357 - INFO - Attempt 33 of 1000
+2024-11-07 00:21:20,249 - INFO - Login attempt 33 completed
+2024-11-07 00:21:20,250 - INFO - Attempt 34 of 1000
+2024-11-07 00:21:27,169 - INFO - Login attempt 34 completed
+2024-11-07 00:21:27,170 - INFO - Attempt 35 of 1000
+2024-11-07 00:21:37,961 - ERROR - Error on attempt 35: TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=130.0.6723.91)
+Stacktrace:
+#0 0x5b6adc7321ca <unknown>
+#1 0x5b6adc24d460 <unknown>
+#2 0x5b6adc235b00 <unknown>
+#3 0x5b6adc2357ed <unknown>
+#4 0x5b6adc23387c <unknown>
+#5 0x5b6adc23402f <unknown>
+#6 0x5b6adc243497 <unknown>
+#7 0x5b6adc259474 <unknown>
+#8 0x5b6adc25e7ab <unknown>
+#9 0x5b6adc23473e <unknown>
+#10 0x5b6adc2592d8 <unknown>
+#11 0x5b6adc2dcd5b <unknown>
+#12 0x5b6adc2bddb3 <unknown>
+#13 0x5b6adc28cc10 <unknown>
+#14 0x5b6adc28dbee <unknown>
+#15 0x5b6adc6fe45b <unknown>
+#16 0x5b6adc7023f8 <unknown>
+#17 0x5b6adc6ebf7c <unknown>
+#18 0x5b6adc702f77 <unknown>
+#19 0x5b6adc6d11cf <unknown>
+#20 0x5b6adc7208e8 <unknown>
+#21 0x5b6adc720ab0 <unknown>
+#22 0x5b6adc731046 <unknown>
+#23 0x7d4c29e9ca94 <unknown>
+#24 0x7d4c29f29c3c <unknown>
+
+2024-11-07 00:21:37,962 - INFO - Attempt 36 of 1000
+2024-11-07 00:21:40,018 - INFO - Login attempt 36 completed
+2024-11-07 00:21:40,018 - INFO - Attempt 37 of 1000
+2024-11-07 00:21:42,030 - INFO - Login attempt 37 completed
+2024-11-07 00:21:42,030 - INFO - Attempt 38 of 1000
+2024-11-07 00:21:48,615 - INFO - Login attempt 38 completed
+2024-11-07 00:21:48,616 - INFO - Attempt 39 of 1000
+2024-11-07 00:21:50,522 - INFO - Login attempt 39 completed
+2024-11-07 00:21:50,523 - INFO - Attempt 40 of 1000
+2024-11-07 00:21:57,912 - INFO - Login attempt 40 completed
+2024-11-07 00:21:57,912 - INFO - Attempt 41 of 1000
+2024-11-07 00:22:00,841 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/77ca9cf7c81209c6aa0203fa52b3a630
+2024-11-07 00:22:00,842 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73392a3dba40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/77ca9cf7c81209c6aa0203fa52b3a630
+2024-11-07 00:22:00,843 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73392a3db170>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/77ca9cf7c81209c6aa0203fa52b3a630
+2024-11-07 00:22:00,907 - INFO - Browser session closed
