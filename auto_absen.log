@@ -376,3 +376,17 @@ Stacktrace:
 2024-11-07 00:54:37,255 - INFO - Submit button clicked
 2024-11-07 00:54:45,255 - INFO - Attendance submitted successfully at 2024-11-07 00:54:45!
 2024-11-07 00:54:45,388 - INFO - Browser session closed
+2024-11-07 01:03:50,277 - INFO - Auto attendance scheduler started
+2024-11-07 01:05:00,301 - INFO - Starting auto attendance process
+2024-11-07 01:05:00,301 - INFO - Setting up Chrome driver
+2024-11-07 01:05:00,302 - INFO - ====== WebDriver manager ======
+2024-11-07 01:05:00,514 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 01:05:01,379 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 01:05:02,202 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.93/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 01:05:02,794 - INFO - Chrome driver initialized successfully
+2024-11-07 01:05:02,796 - INFO - Navigating to attendance URL
+2024-11-07 01:05:03,589 - INFO - NPM entered successfully
+2024-11-07 01:05:03,764 - INFO - Password entered successfully
+2024-11-07 01:05:05,274 - INFO - Submit button clicked
+2024-11-07 01:05:13,274 - INFO - Attendance submitted successfully at 2024-11-07 01:05:13!
+2024-11-07 01:05:13,389 - INFO - Browser session closed
