@@ -390,3 +390,78 @@ Stacktrace:
 2024-11-07 01:05:05,274 - INFO - Submit button clicked
 2024-11-07 01:05:13,274 - INFO - Attendance submitted successfully at 2024-11-07 01:05:13!
 2024-11-07 01:05:13,389 - INFO - Browser session closed
+2024-11-07 13:26:32,560 - INFO - Auto attendance scheduler started
+2024-11-07 13:31:00,655 - INFO - Starting auto attendance process
+2024-11-07 13:31:00,655 - INFO - Setting up Chrome driver
+2024-11-07 13:31:00,656 - INFO - ====== WebDriver manager ======
+2024-11-07 13:31:00,729 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:31:02,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:31:03,996 - INFO - There is no [linux64] chromedriver "130.0.6723.116" for browser google-chrome "130.0.6723" in cache
+2024-11-07 13:31:03,997 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:31:06,560 - INFO - WebDriver version 130.0.6723.116 selected
+2024-11-07 13:31:06,562 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/linux64/chromedriver-linux64.zip
+2024-11-07 13:31:06,562 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/linux64/chromedriver-linux64.zip
+2024-11-07 13:31:06,870 - INFO - Driver downloading response is 200
+2024-11-07 13:31:19,379 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:31:20,489 - INFO - Driver has been saved in cache [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.116]
+2024-11-07 13:31:20,681 - INFO - Chrome driver initialized successfully
+2024-11-07 13:31:20,682 - INFO - Navigating to attendance URL
+2024-11-07 13:31:21,409 - INFO - NPM entered successfully
+2024-11-07 13:31:21,448 - INFO - Password entered successfully
+2024-11-07 13:31:23,350 - INFO - Submit button clicked
+2024-11-07 13:31:31,351 - INFO - Attendance submitted successfully at 2024-11-07 13:31:31!
+2024-11-07 13:31:31,429 - INFO - Browser session closed
+2024-11-07 13:34:09,696 - INFO - Starting auto attendance process
+2024-11-07 13:34:09,696 - INFO - Setting up Chrome driver
+2024-11-07 13:34:09,696 - INFO - ====== WebDriver manager ======
+2024-11-07 13:34:09,760 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:34:11,090 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:34:12,146 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.116/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 13:34:12,334 - INFO - Chrome driver initialized successfully
+2024-11-07 13:34:12,335 - INFO - Navigating to attendance URL
+2024-11-07 13:34:13,236 - INFO - NPM entered successfully
+2024-11-07 13:34:13,277 - INFO - Password entered successfully
+2024-11-07 13:34:36,416 - INFO - Submit button clicked
+2024-11-07 13:34:44,417 - INFO - Attendance submitted successfully at 2024-11-07 13:34:44!
+2024-11-07 13:34:44,494 - INFO - Browser session closed
+2024-11-07 13:34:44,494 - INFO - Starting auto attendance process
+2024-11-07 13:34:44,494 - INFO - Setting up Chrome driver
+2024-11-07 13:34:44,494 - INFO - ====== WebDriver manager ======
+2024-11-07 13:34:44,557 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:34:46,425 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 13:34:47,591 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.116/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 13:34:47,771 - INFO - Chrome driver initialized successfully
+2024-11-07 13:34:47,771 - INFO - Navigating to attendance URL
+2024-11-07 13:34:48,453 - INFO - NPM entered successfully
+2024-11-07 13:34:48,493 - INFO - Password entered successfully
+2024-11-07 13:34:49,853 - INFO - Submit button clicked
+2024-11-07 13:34:57,854 - INFO - Attendance submitted successfully at 2024-11-07 13:34:57!
+2024-11-07 13:34:57,927 - INFO - Browser session closed
+2024-11-07 17:10:58,488 - INFO - Starting auto attendance process
+2024-11-07 17:10:58,489 - INFO - Setting up Chrome driver
+2024-11-07 17:10:58,489 - INFO - ====== WebDriver manager ======
+2024-11-07 17:10:58,660 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 17:11:06,760 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 17:11:08,204 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.116/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 17:11:08,795 - INFO - Chrome driver initialized successfully
+2024-11-07 17:11:08,797 - INFO - Navigating to attendance URL
+2024-11-07 17:11:09,675 - INFO - NPM entered successfully
+2024-11-07 17:11:09,842 - INFO - Password entered successfully
+2024-11-07 17:11:11,093 - INFO - Submit button clicked
+2024-11-07 17:11:19,094 - INFO - Attendance submitted successfully at 2024-11-07 17:11:19!
+2024-11-07 17:11:19,221 - INFO - Browser session closed
+2024-11-07 17:11:19,222 - INFO - Starting auto attendance process
+2024-11-07 17:11:19,222 - INFO - Setting up Chrome driver
+2024-11-07 17:11:19,222 - INFO - ====== WebDriver manager ======
+2024-11-07 17:11:19,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 17:11:19,504 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-07 17:11:19,649 - INFO - Driver [/home/mochashaa/.wdm/drivers/chromedriver/linux64/130.0.6723.116/chromedriver-linux64/chromedriver] found in cache
+2024-11-07 17:11:20,213 - INFO - Chrome driver initialized successfully
+2024-11-07 17:11:20,215 - INFO - Navigating to attendance URL
+2024-11-07 17:11:20,929 - INFO - NPM entered successfully
+2024-11-07 17:11:21,105 - INFO - Password entered successfully
+2024-11-07 17:11:31,277 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/5074974d824a186ed48e4d6a889a7b30
+2024-11-07 17:11:31,278 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71c78fec1100>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5074974d824a186ed48e4d6a889a7b30
+2024-11-07 17:11:31,279 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x71c78fec0e90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5074974d824a186ed48e4d6a889a7b30
+2024-11-07 17:11:31,280 - INFO - Browser session closed
+2024-11-08 08:00:01,082 - INFO - Auto attendance scheduler started

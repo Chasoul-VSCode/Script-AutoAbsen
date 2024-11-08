@@ -102,15 +102,14 @@ def schedule_attendance(npm, password):
     
     schedule.every().thursday.at("13:31").do(auto_absen, npm=npm, password=password)
     
-    schedule.every().friday.at("09:10").do(auto_absen, npm=npm, password=password)
+    schedule.every().friday.at("08:10").do(auto_absen, npm=npm, password=password)
     schedule.every().friday.at("13:40").do(auto_absen, npm=npm, password=password)
     
     schedule.every().saturday.at("10:40").do(auto_absen, npm=npm, password=password)
 
 if __name__ == "__main__":
     users = [
-        {"npm": "12522028", "password": "131122"},
-        {"npm": "12522037", "password": "12522037"}
+        {"npm": "12522028", "password": "131122"}
     ]
     for user in users:
         npm = user["npm"]
