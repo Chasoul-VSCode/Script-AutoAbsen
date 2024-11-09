@@ -109,7 +109,7 @@ def schedule_attendance(npm, password):
 
 if __name__ == "__main__":
     users = [
-        {"npm": "12522028", "password": "131122"}
+        {"npm": "NPM DISNI", "password": "PASSWORD DISNI"}
     ]
     for user in users:
         npm = user["npm"]

@@ -94,8 +94,8 @@ def spam_login(npm, password, num_attempts=1000):
                 logging.error(f"Error closing driver: {e}")
 
 if __name__ == "__main__":
-    npm = "12524020"
-    password = "12524020"
+    npm = "TEST"
+    password = "TEST"
     
     print("Starting spam login process...")
     spam_login(npm, password)
