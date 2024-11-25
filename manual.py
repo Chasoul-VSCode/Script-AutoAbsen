@@ -95,7 +95,7 @@ def auto_absen(npm, password):
 
 if __name__ == "__main__":
     users = [
-        {"npm": "NPM DISNI", "password": "PASS DISNI"},
+        {"npm": "NPM DISNI", "password": "PASSWORD DISNI"},
     ]
     
     print("Melakukan absensi untuk semua user...")
